@@ -1,0 +1,4 @@
+interface:
+  display_name: "俄语重音"
+  short_description: "使用 RUAccent 为俄语句子和学习材料标注重音，支持 Mac CPU"
+  default_prompt: "用 $russian-stress 为这段俄语标注重音，保留原有格式。"
